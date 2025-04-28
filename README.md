@@ -178,6 +178,10 @@ CONFIG = {
 
 ## Data and Training
 
+### Dataset Information
+
+The dataset used in this project was developed in collaboration with the Creative Machines Lab at Columbia University, as part of a research project with Yuhang Hu and Professor Hod Lipson. The dataset is currently private as it's being used in ongoing research that may lead to publication. Once the research is published, we aim to make the dataset publicly available.
+
 ### Dataset Structure
 
 The diffusion model is trained on paired before/after images:
