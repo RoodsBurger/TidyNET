@@ -213,8 +213,9 @@ Each component has its own training pipeline:
 ## Performance Metrics
 
 - **Diffusion Model**: Generates high-quality tidy arrangements after ~500 epochs
-- **YOLO Detector**: >95% accuracy in object detection and pose estimation  
-- **Robot Control**: Achieves <5mm positional accuracy for object placement
+- **YOLOv11-OBB Detector**: Above 93% detection success across object counts, with angular accuracy within ±3.2°
+- **Robot Execution**: 85.5% grasp success and 74.2% placement success on the Interbotix WidowX 200
+- **End-to-End**: 70% task completion
 - **Full System**: Successfully organizes workspaces with various object types and arrangements
 
 ## Hardware Requirements
